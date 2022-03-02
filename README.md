@@ -10,7 +10,7 @@
 - 사진 또는 게시글 업로드 후 리스트로 정렬
 - 프로필 설정 및 수정 기능
 
-![image](https://user-images.githubusercontent.com/65011438/156283200-b44a76b6-0bcf-4c1b-9254-0d04e78b39f8.png)
+![image](https://user-images.githubusercontent.com/65011438/156283270-0997d894-7a01-4434-b262-07835fadbcac.png)
 
 
-![image](https://user-images.githubusercontent.com/65011438/156283212-cc325ea3-0c05-427f-a94f-03ff862cfd67.png)
+![image](https://user-images.githubusercontent.com/65011438/156283280-34d653ae-ec82-49bc-9b4c-c1d8209f00ae.png)
